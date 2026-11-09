@@ -1,0 +1,12 @@
+{
+  "popup-reference.webp": {
+    "origin": "/Users/phongnguyen/.hermes/webui/attachments/e5c679a137de/screenshot-1793949941541.webp",
+    "reference": "../mini-brd-popup/CMS-mini-BRD-POPUP-BUC-v1.0.0.md",
+    "usage": "Ảnh tham chiếu được người dùng cung cấp qua BRD; không chỉnh sửa nội dung ảnh."
+  },
+  "fonts": {
+    "origin": "/Users/phongnguyen/workspace/Nexlab/docs-ba/CSKH/prototype-portal-v0.9.0/assets/fonts",
+    "family": "Lexend 400/500/600/700, Plus Jakarta Sans 700/800",
+    "license": "SIL Open Font License; các file OFL đi kèm."
+  }
+}
