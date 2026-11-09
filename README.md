@@ -1,6 +1,11 @@
-# HIUH CMS Popup Management — v1.0.0
+# HIUH CMS Popup Management
 
-Prototype tương tác để bàn giao module Quản lý Popup cho dev.
+Repo giữ song song hai prototype để đối chiếu: v1.0.0 ở thư mục gốc và v1.2.0 trong `v1.2.0/`.
+
+## Phiên bản
+
+- **v1.0.0**: module Popup ban đầu. Mở `index.html` hoặc `popup-design-v1.0.0-standalone.html`.
+- **v1.2.0**: Popup và màn hình chờ đa nền tảng. Mở `v1.2.0/index.html`.
 
 ## Mở bản thử
 

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1200" viewBox="0 0 840 1200" role="img" aria-label="Ảnh dọc minh họa HIU Hospital">
+<rect width="840" height="1200" fill="#edf3ff"/><rect x="64" y="64" width="712" height="1072" rx="24" fill="white"/>
+<text x="112" y="162" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#0052d7">HIU HOSPITAL</text>
+<path d="M112 210H728" stroke="#cbd3e6" stroke-width="2"/>
+<text x="112" y="330" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#16205c"><tspan x="112">Chào mừng</tspan><tspan x="112" dy="80">đến HIU Hospital</tspan></text>
+<text x="112" y="560" font-family="Arial,sans-serif" font-size="30" fill="#3b4177"><tspan x="112">Thông tin dành cho bạn</tspan><tspan x="112" dy="48">trên mỗi nền tảng.</tspan></text>
+<rect x="112" y="720" width="616" height="168" rx="12" fill="#edf3ff"/>
+<text x="152" y="784" font-family="Arial,sans-serif" font-size="27" fill="#0052d7"><tspan x="152">Ảnh dọc minh họa</tspan><tspan x="152" dy="44">Không quy định tỷ lệ bắt buộc</tspan></text>
+<text x="112" y="1054" font-family="Arial,sans-serif" font-size="23" fill="#656d93">DỮ LIỆU MẪU · PROTOTYPE v1.2.0</text>
+</svg>
